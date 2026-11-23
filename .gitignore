@@ -1,0 +1,15 @@
+
+# Maven
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs and environment files
+*.log
+.env
+
+# Keep database credentials private
+src/main/resources/application.properties
